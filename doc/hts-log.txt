@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 21 Jun 2021 02:31:18 at http://wiki.maco64.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://wiki.maco64.com/ -O1 "F:\ZPW WEBSITE IMAGES\MACO64_WIKI\Maco 64" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:33:28	Error: 	"Bad Request" (400) at link wiki.maco64.com/_/tz (from wiki.maco64.com/)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/site/sites/system/app/images/icon_plusone.png (from wiki.maco64.com/_/rsrc/1623683323000/system/app/css/editor.css)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/site/sites/system/app/images/plusbadge.png (from wiki.maco64.com/_/rsrc/1623683323000/system/app/css/editor.css)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Debug_ROM:_RAM_Map (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Zelda_64:_Collision_Format (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Debug_ROM:_Exit_List_(alternate) (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Zelda_64:_OoT_Skyboxes (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Zelda_64:_OoT_Music_Values (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Cutscenes (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Code (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/On_Entrance_Cutscenes (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Zelda_64_Filesystem (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Zelda_64:_JFIF_Backgrounds (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Debug_ROM:_Object_List (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/SayakaGL (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/Actor_List (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:28	Error: 	"Not Found" (404) at link wiki.maco64.com/w/User:Spinout (from wiki.maco64.com/Documentation/Scenes_and_Rooms)
+02:33:41	Error: 	"Not Found" (404) at link https://i1.ytimg.com/vi/CNTd1p7l_Uc/mqdefault.jpg (from wiki.maco64.com/Tools/Hylian_Toolbox)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 26 seconds : 95 links scanned, 76 files written (4536656 bytes overall) [4013470 bytes received at 27489 bytes/sec], 1327134 bytes transferred using HTTP compression in 68 files, ratio 27%, 1.0 requests per connection
+(18 errors, 0 warnings, 0 messages)
